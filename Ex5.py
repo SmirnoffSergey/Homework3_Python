@@ -9,7 +9,6 @@ def fib(number):
         return 1
     return fib(number-1) + fib(number-2)
 
-
 n = int(input('Enter integer number: '))
 nega_fib = [0]
 
